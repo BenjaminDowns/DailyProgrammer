@@ -1,5 +1,3 @@
-__author__ = 'Oops_TryAgain'
-
 number = 197
 original_number = number
 steps = 0
