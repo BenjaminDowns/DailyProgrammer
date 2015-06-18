@@ -1,5 +1,3 @@
-__author__ = 'benjamindowns'
-
 print "Hello."
 name = raw_input("Please enter your name: ")
 age = raw_input("Please enter your age (years): ")
